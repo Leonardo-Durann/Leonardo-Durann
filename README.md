@@ -17,7 +17,7 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/@leonardoseven/about" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=dracula" target="_blank"></a>
+ 
   <a href="https://www.instagram.com/leoonardoduran/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=dracula" target="_blank"></a>
  </a> 
   <a href = "mailto:leonardodurann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dracula" target="_blank"></a>
